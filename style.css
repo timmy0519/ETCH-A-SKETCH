@@ -1,0 +1,18 @@
+main{
+    width: 1000px;
+    height: 1000px;
+    display: flex;
+    flex-flow: row wrap;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+}
+#control{
+    display: block;
+}
+.square{
+    box-sizing: border-box;
+ 
+    background: floralwhite;
+    border: solid 2px rgb(34, 43, 29);
+}
